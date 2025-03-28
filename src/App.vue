@@ -3,6 +3,7 @@ import Products from './components/Products.vue'
 import Rating from './components/Rating.vue';
 import Test from './components/Test.vue'
 import UserForm from './components/UserForm.vue'
+import GitHub from './components/GitHub.vue'
 import Test1 from './components/Test1.vue'
 </script>
 
@@ -16,7 +17,7 @@ import Test1 from './components/Test1.vue'
     <Rating initialRating="5" />-->
     <!--<Products />-->
     <!--<Products/>-->
-    <UserForm />
+    <GitHub />
   </div>
 </template>
 
